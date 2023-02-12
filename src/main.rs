@@ -2,6 +2,7 @@ extern crate sdl2;
 
 mod app;
 mod core;
+mod math;
 
 use app::game::Game;
 
